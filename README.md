@@ -7,7 +7,9 @@ I'm an aspiring Java developer passionate about learning and growing in the IT f
 After completing a comprehensive Fullstack development course with AIT-TR GmbH, I've gained strong foundational knowledge in:
 
  • Java programming and backend development (Spring Framework).
+
  • Working with databases (SQL, PostgreSQL).
+
  • Building modern web applications with React and RESTful APIs.
  
 🌍 Currently based in: Münster, Germany
