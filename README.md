@@ -1,14 +1,17 @@
-Hi 👋 My name is Dmitriy
+Hi there! 👋 I'm Dmitriy
 ========================
 
-Student currently learning the basics of Java programming
+I'm an aspiring Java developer passionate about learning and growing in the IT field.
 ---------------------------------------------------------
 
-All my life I dreamed of mastering the IT field, and finally such an opportunity arose, at the moment I am studying courses provided by the company "https://www.ait-tr.de", after completing the courses I will try to find a company to work and further gain experience in IT.
+After completing a comprehensive Fullstack development course with AIT-TR GmbH, I've gained strong foundational knowledge in:
 
-* 🌍  I'm based in Germany/Münster
-* ✉️  You can contact me at [dima2002zxz@gmail.com](mailto:dima2002zxz@gmail.com)
-* 🧠  I'm learning Intellij Idea (Java BackEnd)
+Java programming and backend development (Spring Framework).
+Working with databases (SQL, PostgreSQL).
+Building modern web applications with React and RESTful APIs.
+🌍 Currently based in: Münster, Germany
+💻 Tools and technologies I'm learning: IntelliJ IDEA, Java, Spring Boot, and more!
+✉️ Feel free to reach out: [dima2002zxz@gmail.com](mailto:dima2002zxz@gmail.com)
 
 <a href="https://www.github.com/trashoou" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/trashoou?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
