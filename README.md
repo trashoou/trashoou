@@ -6,12 +6,15 @@ I'm an aspiring Java developer passionate about learning and growing in the IT f
 
 After completing a comprehensive Fullstack development course with AIT-TR GmbH, I've gained strong foundational knowledge in:
 
-Java programming and backend development (Spring Framework).
-Working with databases (SQL, PostgreSQL).
-Building modern web applications with React and RESTful APIs.
+ • Java programming and backend development (Spring Framework).
+ • Working with databases (SQL, PostgreSQL).
+ • Building modern web applications with React and RESTful APIs.
+ 
 🌍 Currently based in: Münster, Germany
 💻 Tools and technologies I'm learning: IntelliJ IDEA, Java, Spring Boot, and more!
 ✉️ Feel free to reach out: [dima2002zxz@gmail.com](mailto:dima2002zxz@gmail.com)
+
+I'm excited to connect with other developers, contribute to open-source projects, and find opportunities to grow professionally in the IT industry. Let's build something great together!
 
 <a href="https://www.github.com/trashoou" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/trashoou?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
